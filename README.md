@@ -1,6 +1,6 @@
 # Hi 👋, I'm Deepak Maurya
 
-🎓 Second-Year Engineering Student  
+🎓 Third-Year Engineering Student  
 💻 Passionate about C++ & Data Structures  
 🚀 Aspiring Software Engineer
 
