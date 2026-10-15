@@ -49,32 +49,7 @@
 
 ---
 
-## 🧑‍💻 Coding Profiles
 
-<p align="center">
-  <a href="https://leetcode.com/u/Deepak__Maury/">
-    <img src="https://img.shields.io/badge/LeetCode-Deepak__Maury-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
-  </a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-### 📊 LeetCode Statistics
-
-<p align="center">
-  <a href="https://leetcode.com/u/Deepak__Maury/">
-    <img src="https://leetcard.jacoblin.cool/Deepak__Maury?theme=dark&font=Baloo&ext=heatmap" alt="Deepak Maurya's LeetCode Stats"/>
-  </a>
-</p>
-
-### 🔥 LeetCode Activity
-
-<p align="center">
-  <a href="https://leetcode.com/u/Deepak__Maury/">
-    <img src="https://leetcard.jacoblin.cool/Deepak__Maury?theme=dark&font=Baloo&ext=activity" alt="Deepak Maurya's LeetCode Activity"/>
-  </a>
-</p>
 
 ---
 
