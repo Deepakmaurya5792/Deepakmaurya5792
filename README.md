@@ -4,6 +4,8 @@
 💻 Passionate about C++ & Data Structures  
 🚀 Aspiring Software Engineer
 
+---
+
 ## 🌐 Socials
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
@@ -11,7 +13,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-maurya-090792315/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@deepakcodehack)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepakmaurya7sep2005@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/deepakmaurya5792)
+
+---
 
 # 💻 Tech Stack & Expertise
 
@@ -46,7 +49,36 @@
 
 ---
 
-### 🎯 Specialization
+## 🧑‍💻 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/Deepak__Maury/">
+    <img src="https://img.shields.io/badge/LeetCode-Deepak__Maury-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+  </a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+### 📊 LeetCode Statistics
+
+<p align="center">
+  <a href="https://leetcode.com/u/Deepak__Maury/">
+    <img src="https://leetcard.jacoblin.cool/Deepak__Maury?theme=dark&font=Baloo&ext=heatmap" alt="Deepak Maurya's LeetCode Stats"/>
+  </a>
+</p>
+
+### 🔥 LeetCode Activity
+
+<p align="center">
+  <a href="https://leetcode.com/u/Deepak__Maury/">
+    <img src="https://leetcard.jacoblin.cool/Deepak__Maury?theme=dark&font=Baloo&ext=activity" alt="Deepak Maurya's LeetCode Activity"/>
+  </a>
+</p>
+
+---
+
+## 🎯 Specialization
 
 ```diff
 + Full Stack MERN Developer
@@ -60,19 +92,18 @@
 
 ---
 
-## 🧠 LeetCode Stats
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Baloo&ext=heatmap)](https://leetcode.com/u/YOUR_USERNAME/)
-
----
-
 ## 🚀 Current Goals
 
 - 📚 Strengthening Data Structures & Algorithms using C++.
-- 💻 Building full-stack projects using the MERN stack.
-- 🧩 Practicing coding problems on LeetCode.
+- 🧩 Consistently solving problems on LeetCode.
+- 💻 Building full-stack applications using the MERN stack.
+- 🌱 Exploring modern web development technologies.
 - 🎯 Preparing for software engineering internships and placements.
 
 ---
 
-⭐ *"Consistency is the key to mastering problem-solving and building great software."*
+## 🤝 Let's Connect
+
+I'm always open to collaborating on interesting projects, discussing technology, and connecting with fellow developers.
+
+⭐ *"Consistency is the key to mastering problem-solving and building great software."
